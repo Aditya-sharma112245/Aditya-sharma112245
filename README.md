@@ -1,7 +1,7 @@
 ![banner](https://raw.githubusercontent.com/Aditya-sharma112245/Aditya-sharma112245/main/assets/banner.svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=16&amp;duration=2600&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Agentic+AI+%26+Autonomous+LLM+Workflows;RAG+Architectures+%26+Multi-Agent+Pipelines;Predictive+ML+%26+Real-Time+Analytics;Nagarro+National+Hackathon+Finalist;Published+AI+Researcher+AICTE+2025" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=15&amp;duration=2600&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Building+Agentic+AI+%26+Autonomous+LLM+Systems;RAG+Architectures+%26+Multi-Agent+Pipelines;Predictive+ML+%26+Real-Time+Analytics;Nagarro+National+Hackathon+Finalist+2025;Published+AI+Researcher+AICTE+2025" alt="typing"/>
 </p>
 
 <p align="center">
@@ -18,113 +18,83 @@
 
 ```python
 class AdityaSharma:
-    role       = "Junior Software Engineer (AI/ML) @ DataCorp Traffic Pvt Ltd"
-    education  = "B.Tech CSE — IPU Delhi  |  CGPA: 8.80 / 10"
-    location   = "India"
+    role      = "Junior Software Engineer (AI/ML) @ DataCorp Traffic Pvt Ltd"
+    education = "B.Tech CSE — IPU Delhi  |  CGPA: 8.80 / 10"
 
-    expertise  = [
-        "Agentic AI and LLM Systems",
-        "RAG and Semantic Search Architectures",
-        "Supervised ML and Deep Learning",
-        "NLP and Computer Vision",
-    ]
+    currently_building = "AI automation of CCTV analytics on TrafficLenz platform"
+
+    expertise = ["Agentic AI", "RAG Systems", "Supervised ML", "NLP", "Computer Vision"]
 
     highlights = [
-        "National Finalist — Nagarro Hackathon Crack a Code 3.0 (2025)",
-        "Published Researcher — AICTE National Conference (ISBN: 978-81-949693-7-2)",
+        "National Finalist — Nagarro Hackathon 'Crack a Code 3.0' (2025)",
+        "Published Researcher — AICTE Conference (ISBN: 978-81-949693-7-2)",
         "Built AI Customer Officers on WhatsApp for D2C brands @ Internet Human Co.",
-        "Deployed Battery Range ML and Transit Chatbot for DIMTS Fleet Operations",
+        "Deployed ML Battery Range Forecasting system for DIMTS fleet operations",
     ]
-
-    currently  = "AI-powered CCTV analytics automation on TrafficLenz @ DataCorp Traffic"
-    philosophy = "Bridge frontier AI research with production systems that deliver impact."
 ```
 
 ---
 
-## Experience
+## 🏢 Where I've Worked
 
-**Junior Software Engineer — AI/ML** · [DataCorp Traffic](https://www.datacorp.tech) · Aug 2026 to Present · Bengaluru
+| Role | Company | Period |
+|---|---|---|
+| **Junior SWE — AI/ML** | [DataCorp Traffic](https://www.datacorp.tech) | Aug 2026 → Present |
+| **AI Engineering Intern** | [Internet Human Co.](https://whitegloves.in) | Jun – Aug 2026 |
+| **AI/ML Engineer Intern** | DIMTS (Delhi Transit) | Jan – Jun 2026 |
+| **SWE Intern** | NCRTC (Rapid Rail) | Jun – Aug 2024 |
 
-AI-powered automation of CCTV data analytics and quality checks on the **TrafficLenz** platform.
-
-**AI Engineering Intern** · [Internet Human Co.](https://whitegloves.in) · Jun to Aug 2026 · Gurugram
-
-Multi-agent AI Customer Officers on WhatsApp for D2C brands. Order tracking, abandoned cart recovery, and RTO reduction using LLMs, LangChain, and agentic workflows.
-
-**AI/ML Engineer Intern** · DIMTS (Delhi Integrated Multimodal Transit System) · Jan to Jun 2026 · Delhi
-
-Supervised ML for electric bus battery range prediction. LLM passenger chatbot and NLP sentiment analysis pipeline for transit operations.
-
-**Software Engineering Intern** · NCRTC (National Capital Region Transport Corp.) · Jun to Aug 2024 · Delhi
-
-Native Android apps in Kotlin for RRTS commuter services and NCRTC land management on the Rapid Rail network.
+> Building AI-powered CCTV analytics automation on TrafficLenz · Multi-agent WhatsApp AI for D2C brands · Electric bus battery ML + transit chatbots · RRTS Android apps in Kotlin
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,kotlin&amp;theme=dark" alt="languages"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&amp;theme=dark" alt="ml"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,kotlin,pytorch,tensorflow,git,github,linux,docker,firebase,androidstudio,vscode&amp;theme=dark" alt="tech stack"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/Whisper_ASR-00A67E?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Whisper"/>
+  <img src="https://img.shields.io/badge/Sarvam_AI-7C3AED?style=flat-square&amp;logoColor=white" alt="Sarvam"/>
   <img src="https://img.shields.io/badge/RAG_Pipelines-2563EB?style=flat-square&amp;logoColor=white" alt="RAG"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF4500?style=flat-square&amp;logoColor=white" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/Whisper_ASR-00A67E?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Whisper"/>
-  <img src="https://img.shields.io/badge/Mistral_AI-F43F5E?style=flat-square&amp;logoColor=white" alt="Mistral"/>
-  <img src="https://img.shields.io/badge/Sarvam_AI-7C3AED?style=flat-square&amp;logoColor=white" alt="Sarvam"/>
   <img src="https://img.shields.io/badge/Multi--Agent-8B5CF6?style=flat-square&amp;logoColor=white" alt="Multi-Agent"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,fastapi,firebase,androidstudio,vscode&amp;theme=dark" alt="tools"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/>
 </p>
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
 | | Project | Stack | Link |
 |---|---|---|---|
-| 🤖 | **VidMind AI** — AI Meeting Intelligence Agent. Transcribes English and Hinglish video meetings, generates summaries, and enables RAG-based QnA across full meeting history. | `Python` `Whisper` `Sarvam AI` `LangChain` `ChromaDB` `Streamlit` | [View](https://github.com/Aditya-sharma112245/VidMind-video-agent) |
-| 🔬 | **ResearchMind AI** — Multi-Agent Research System. 4-agent pipeline (Search, Retrieval, Synthesis, Critic) generating hallucination-validated, citation-backed reports. | `Python` `LangChain` `Tavily API` `Multi-Agent` `LLMs` | [View](https://github.com/Aditya-sharma112245/Research-Mind-multi-agent-researcher-project) |
-| 🧠 | **Human-Sounding AI Agent** — Conversational agent engineered for natural, human-like D2C customer engagement on WhatsApp. | `Python` `LLMs` `LangChain` `Prompt Engineering` | [View](https://github.com/Aditya-sharma112245/Human-sounding-agent) |
-| ⚡ | **Electric Bus Range plus Transit AI** — Supervised ML for real-time battery range prediction plus health dashboard plus LLM passenger chatbot deployed at DIMTS. | `Python` `Supervised ML` `NLP` `LLMs` `Streamlit` | [View](https://github.com/Aditya-sharma112245/dimts_smart_assistant) |
-| 🍕 | **AI Food Demand Forecaster** — Inventory forecasting for restaurant chains to cut wastage. Nagarro National Hackathon Finalist. | `Python` `ML` `Time-Series` `Streamlit` | [View](https://github.com/Aditya-sharma112245) |
-| 🚇 | **Metro Crowd Prediction** — Multi-zone occupancy forecasting for metro counters, security, platforms and coaches. | `Python` `Supervised ML` `Streamlit` | [View](https://github.com/Aditya-sharma112245) |
+| 🤖 | **VidMind AI** — Transcribes English and Hinglish video meetings, generates structured summaries, and enables RAG-based QnA across meeting history. | `Whisper` `Sarvam AI` `LangChain` `ChromaDB` `Streamlit` | [View](https://github.com/Aditya-sharma112245/VidMind-video-agent) |
+| 🔬 | **ResearchMind AI** — Autonomous 4-agent pipeline (Search, Retrieval, Synthesis, Critic) producing hallucination-validated, citation-backed research reports. | `LangChain` `Tavily API` `Multi-Agent` `LLMs` | [View](https://github.com/Aditya-sharma112245/Research-Mind-multi-agent-researcher-project) |
+| 🧠 | **Human-Sounding AI Agent** — Conversational WhatsApp agent engineered for natural D2C customer engagement with human-like responses. | `LLMs` `LangChain` `Prompt Engineering` | [View](https://github.com/Aditya-sharma112245/Human-sounding-agent) |
+| ⚡ | **Electric Bus Range + Transit AI** — Real-time battery range prediction dashboard and LLM passenger chatbot deployed for DIMTS fleet operations. | `Supervised ML` `NLP` `LLMs` `Streamlit` | [View](https://github.com/Aditya-sharma112245/dimts_smart_assistant) |
 
 ---
 
-## Research
+## 📖 Research
 
 **"When Fatigue Meets the Wheel: A Review of Drowsiness Detection Technologies"**
 
-AICTE National Conference on IT for Sustainability in Agriculture and Healthcare
+AICTE National Conference on IT for Sustainability in Agriculture and Healthcare — `ISBN: 978-81-949693-7-2` · 2025
 
-ISBN: `978-81-949693-7-2` — Published 2025
-
-Comparative evaluation of computer vision, sensor telemetry, and facial landmark algorithms for real-time driver drowsiness detection and mitigation.
+Comparative review of computer vision, sensor telemetry, and facial landmark algorithms for real-time drowsiness detection in drivers.
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditya-sharma112245&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;title_color=A78BFA&amp;icon_color=A78BFA&amp;text_color=C4B5FD&amp;bg_color=0D1117" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-sharma112245&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=A78BFA&amp;text_color=C4B5FD&amp;bg_color=0D1117&amp;langs_count=8" alt="langs"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aditya-sharma112245&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;title_color=A78BFA&amp;icon_color=A78BFA&amp;text_color=C4B5FD&amp;bg_color=0D1117" alt="stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-sharma112245&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=A78BFA&amp;text_color=C4B5FD&amp;bg_color=0D1117&amp;langs_count=6" alt="langs"/>
 </p>
 
 <p align="center">
@@ -137,7 +107,7 @@ Comparative evaluation of computer vision, sensor telemetry, and facial landmark
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
