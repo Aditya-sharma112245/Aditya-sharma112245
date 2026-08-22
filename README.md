@@ -93,12 +93,12 @@ Comparative review of computer vision, sensor telemetry, and facial landmark alg
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aditya-sharma112245&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;title_color=A78BFA&amp;icon_color=A78BFA&amp;text_color=C4B5FD&amp;bg_color=0D1117" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-sharma112245&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=A78BFA&amp;text_color=C4B5FD&amp;bg_color=0D1117&amp;langs_count=6" alt="langs"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-sharma112245&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=6" alt="trophies" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditya-sharma112245&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=A78BFA&amp;fire=A78BFA&amp;currStreakLabel=A78BFA" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-sharma112245&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;title_color=A78BFA&amp;icon_color=A78BFA&amp;text_color=C4B5FD&amp;bg_color=0D1117" alt="stats" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-sharma112245&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=A78BFA&amp;text_color=C4B5FD&amp;bg_color=0D1117&amp;langs_count=6" alt="langs" height="155"/>
 </p>
 
 <p align="center">
