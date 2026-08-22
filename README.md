@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=180&amp;section=header&amp;text=Aditya%20Sharma&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20%26%20Agentic%20Systems&amp;descFontSize=17&amp;descAlignY=58&amp;descAlign=50" width="100%" alt="header"/>
+![banner](https://raw.githubusercontent.com/Aditya-sharma112245/Aditya-sharma112245/main/assets/banner.svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=16&amp;duration=2600&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Agentic+AI+%26+Autonomous+LLM+Workflows;RAG+Architectures+%26+Multi-Agent+Pipelines;Predictive+ML+%26+Real-Time+Analytics;Nagarro+National+Hackathon+Finalist;Published+AI+Researcher+AICTE+2025" alt="typing"/>
@@ -154,4 +154,4 @@ Comparative evaluation of computer vision, sensor telemetry, and facial landmark
   <a href="mailto:adityadattatre43@gmail.com"><img src="https://img.shields.io/badge/Email_Me-Gmail-EA4335?style=for-the-badge&amp;logo=gmail" alt="Email"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=100&amp;section=footer" width="100%" alt="footer"/>
+![footer](https://raw.githubusercontent.com/Aditya-sharma112245/Aditya-sharma112245/main/assets/footer.svg)
