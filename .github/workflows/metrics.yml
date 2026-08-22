@@ -1,0 +1,50 @@
+name: 📊 Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    name: Generate Metrics SVG
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Aditya-sharma112245
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          config_order: base.header, base.activity, base.community, base.repositories
+          filename: assets/metrics.svg
+
+          # Aesthetics
+          config_display: large
+          config_animations: yes
+
+          # Languages plugin
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+
+          # Achievements plugin
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 6
+
+          # Commit calendar
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
